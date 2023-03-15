@@ -2,11 +2,10 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <kbd>
-  <image src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="ocean" borderadius="10px">
+  <image src="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="ocean">
    </kbd>
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho35&label=Profile%20views&color=0e75b6&style=flat" alt="nacho35" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho35&label=Profile%20views&color=0e75b6&style=flat" alt="nacho35" /> </p>
 
 - 🔭 I’m currently working on **Improve My Skills**
 
