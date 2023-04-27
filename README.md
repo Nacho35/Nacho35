@@ -16,6 +16,10 @@
 - 💬 Ask me about **React, Javascript, HTML and CSS**
 
 - 📫 How to reach me **ignacioevil@gmail.com**
+ 
+ <h3>Level Codewars: </h3>  
+ 
+ ![](https://www.codewars.com/users/Nacho35/badges/large)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
