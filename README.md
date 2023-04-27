@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Improve My Skills**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Everything**
 
 - 👀 I’m interested in ... **Programming, Development web and software**
 
