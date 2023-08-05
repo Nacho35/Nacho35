@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="800" src="https://camo.githubusercontent.com/c078fa52e1ccf1b19794cd950001b746296720ee61d39dda5e231f55107947f9/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f313030313638322f706578656c732d70686f746f2d313030313638322e6a7065673f6175746f3d636f6d70726573732663733d74696e797372676226773d3132363026683d373530266470723d31"  />
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dhY3Rza2NsYWs5OWJ6M3Z3Z3RnMTl0YmM5a21mN2xmdHg1c3BzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7PmvHY6kzAqY/giphy.gif"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="center"></h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="center"></h2>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="center"></h2>
 
 ###
 
@@ -105,7 +105,7 @@
 
 ###
 
-<h2 align="left">Views</h2>
+<h2 align="center"></h2>
 
 ###
 
