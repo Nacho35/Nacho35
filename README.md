@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Ignacio and I'm a passionate frontend developer from Argentina</p>
+<h4 align="center">My name is Ignacio and I'm a passionate frontend developer from Argentina</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Improve My Skills<br><br>🌱 I’m currently learning Everything<br><br>👀 I’m interested in ... Programming, Development web and software<br><br>👨‍💻 All of my projects are available at https://portfolio-ignacio-morales.netlify.app/<br><br>💬 Ask me about React, Javascript, HTML and CSS<br><br>📫 How to reach me ignacioevil@gmail.com</p>
+<h4 align="left">🔭 I’m currently working on Improve My Skills<br><br>🌱 I’m currently learning Everything<br><br>👀 I’m interested in ... Programming, Development web and software<br><br>👨‍💻 All of my projects are available at https://portfolio-ignacio-morales.netlify.app/<br><br>💬 Ask me about React, Javascript, HTML and CSS<br><br>📫 How to reach me ignacioevil@gmail.com</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
@@ -37,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
