@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on Improve My Skills<br><br>🌱 I’m currently learning Everything<br><br>👀 I’m interested in ... Programming, Development web and software<br><br>👨‍💻 All of my projects are available at https://portfolio-ignacio-morales.netlify.app/<br><br>💬 Ask me about React, Javascript, HTML and CSS<br><br>📫 How to reach me ignacioevil@gmail.com
+🔭 I’m currently working on Improve My Skills<br><br>🌱 I’m currently learning Everything<br><br>👀 I’m interested in ... Programming, Development web and software<br><br>👨‍💻 All of my projects are available at https://portfolio-ignacio-morales.netlify.app/<br><br>💬 Ask me about React, Javascript, HTML and CSS<br><br>📫 How to reach me ignacionahuelmorales@gmail.com
 
 
 ## 🌐 Socials:
